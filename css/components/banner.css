@@ -1,0 +1,61 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/fosses.jpg");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.bannerdrake {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/drakebanner.webp");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.bannereminem {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/eminembanner.webp");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.bannerpostmalone {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/postmalonebanner.webp");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.bannerkanyewest {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/kanyewestbanner.jpg");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.bannernickiminaj {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("../../images/nickiminajbanner.webp");
+	color: whitesmoke; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.banner h2 {
+	font-size: 35px;
+	color: white;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 50px;
+}
